@@ -1,5 +1,5 @@
 # ingore specific file
-new-file1.txt
+file.txt
 
 # ignore extension
 *.tmp
