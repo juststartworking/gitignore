@@ -1,1 +1,8 @@
+# ingore specific file
 new-file1.txt
+
+# ignore extension
+*.tmp
+
+# ignore folder
+build/
